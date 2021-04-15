@@ -15,3 +15,5 @@ qemu ne se lance pas (problème de sortie console gtk).
 Nota: pour l'expérience, le build de Busybox est impossible sur WSL. https://www.zachpfeffer.com/single-post/Build-the-Linux-kernel-and-Busybox-and-run-on-QEMU
 
 ## EC2 (AWS Linux)
+
+Build de busybox et kernel.
